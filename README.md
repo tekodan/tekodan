@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dani Alvarez
 
-<!--
-**tekodan/tekodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Full-Stack Developer — 14+ years shipping production software.
+Now building AI-native products: RAG pipelines, agentic systems, and full-stack platforms.
 
-Here are some ideas to get you started:
+## Featured work
+- **[Enola](https://github.com/tekodan/Enola)** — Digital investigator: RAG system detecting
+  gender-based violence in social media (Python, Ollama, ChromaDB, LangChain)
+- **[GanaPAE](https://github.com/tekodan/ganapae2.0)** — Government transparency platform.
+  Winner of the INDIGO 2017 (MinTIC) and Ingenio 2018 (Fedesoft) national awards
+- **[Dale la Pata](https://github.com/tekodan/DaleLaPata)** — Animal-welfare adoption platform,
+  recognized as a world best practice by UNDP
+- **[Civics](https://github.com/tekodan/civics)** — Platform for citizen initiatives
+- **[danialvarez.com](https://danialvarez.com)** — Full portfolio: LATAM e-commerce at scale
+  (Todomoda, Isadora, RadioShack), ERP modernization, clinic SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[danialvarez.com](https://danialvarez.co) · [email](mailto:danialvarezdev@proton.me) ·
+[LinkedIn](https://www.linkedin.com/in/danialvarezdev/) · [Telegram](https://t.me/danialvarezdev)
