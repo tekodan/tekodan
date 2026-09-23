@@ -11,7 +11,7 @@ Now building AI-native products: RAG pipelines, agentic systems, and full-stack 
 - **[Dale la Pata](https://github.com/tekodan/DaleLaPata)** — Animal-welfare adoption platform,
   recognized as a world best practice by UNDP
 - **[Civics](https://github.com/tekodan/civics)** — Platform for citizen initiatives
-- **[danialvarez.com](https://danialvarez.com)** — Full portfolio: LATAM e-commerce at scale
+- **[danialvarez.com](https://danialvarez.co)** — Full portfolio: LATAM e-commerce at scale
   (Todomoda, Isadora, RadioShack), ERP modernization, clinic SaaS
 
 ## Contact
